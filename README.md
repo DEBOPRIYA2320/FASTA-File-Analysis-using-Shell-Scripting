@@ -58,7 +58,7 @@ chmod +x *.sh
 ./count_sequences.sh all_sequences.fasta
 
 # Example : search for motifs
-./count_motif.sh 
+./count_motif.sh TATA
 
 🧰 Tools & Commands Used
 Category	Commands / Concepts
