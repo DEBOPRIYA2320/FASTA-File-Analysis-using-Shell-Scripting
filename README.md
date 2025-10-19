@@ -23,32 +23,53 @@ Implement common genomic calculations (GC%, length, motifs, complements)
 Separate, classify, and filter sequences efficiently
 
 3️⃣ Part A – Basic FASTA Operations
+
 Script	Description
+
 count_sequences.sh -	Counts total number of sequences
+
 sequence_lengths.sh -	Calculates and prints each sequence length
+
 longest_shortest.sh -	Finds longest and shortest sequences
+
 gc.sh -	Computes GC percentage for each sequence
+
 extract_seq.sh -Extracts sequences longer than 30 bp
+
 count_motif.sh - Searches motifs (ATG, TATA, CGC) in sequences
 
 
 4️⃣ Part B – Loops & Conditionals in FASTA Analysis
+
 Script	Description
+
 seq_length_classification.sh - Classifies sequences as Short, Medium, or Long
+
 search1.sh -	Loops through motifs and checks their presence
+
 rev_comp_gc.sh -	Prints reverse complement if GC% > 50
+
 save_seq.sh -	Saves long and short sequences separately
+
 seq_filtering.sh -	Filters sequences by user-defined minimum length
+
 poly_a.sh -	Detects poly(A) tails (AAA...) at sequence ends
+
 count_nucleotides.sh	Counts A, T, G, C nucleotides
+
 palindromic.sh -	Detects palindromic sequences
+
 selected_genes.sh -	Extracts specific Gene IDs (e.g., Gene1, Gene4)
+
 gc_case.sh -	Categorizes GC% using case statements (Low, Medium, High)
 
 
 5️⃣ Input Files Used
+
 File	Description
+
 all_sequences.fasta -	Combined FASTA file containing multiple gene sequences
+
 motifs.txt -	Contains motifs to be searched (e.g., ATG, TATA, CGC)
 
 ⚙️ Usage Example
