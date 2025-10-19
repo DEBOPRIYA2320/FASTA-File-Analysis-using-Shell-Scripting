@@ -6,6 +6,7 @@ This repository contains a comprehensive set of shell scripts for performing ess
 It demonstrates how command-line tools and Bash scripting can automate sequence analysis — from calculating GC content to motif detection, filtering, and classification.
 
 🧪 Key Sections
+
 1️⃣ What is FASTA File Analysis?
 
 FASTA files store biological sequence data (DNA, RNA, or protein).
