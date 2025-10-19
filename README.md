@@ -57,7 +57,7 @@ chmod +x *.sh
 # Run any script
 ./count_sequences.sh all_sequences.fasta
 
-# Example: search for motifs
+# Example : search for motifs
 ./count_motif.sh 
 
 🧰 Tools & Commands Used
@@ -80,7 +80,7 @@ Gain hands-on experience in scripting logic and text parsing
 Perform genomic feature analysis without external software
 
 📄 Project Report
-You can view the complete project report here: 
+You can view the complete project report here: https://github.com/DEBOPRIYA2320/FASTA-File-Analysis-using-Shell-Scripting/blob/747e866754b494d7bd6c3dacde0cecdd781178fa/Bash%20Scripting(GITHUB).pdf
 
 🧠 Author
 **Debopriya**  
